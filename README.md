@@ -17,6 +17,7 @@ Projeto feito para praticar conhecimentos de Front-end e utilizar o bootstrap em
 ### Tecnologias utilizadas:
 
 - [x]  HTML5
+- [x]  SASS
 - [x]  Bootstrap
 - [x]  Canvas
 - [x]  GIMP
@@ -38,6 +39,7 @@ Project to practice skills with Front-end and also using the Bootstrap on a real
 ### Tecnologies in this project:
 
 - [x]  HTML5
+- [x]  SASS
 - [x]  Bootstrap
 - [x]  Canvas
 - [x]  GIMP
