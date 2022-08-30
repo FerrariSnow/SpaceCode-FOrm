@@ -1,0 +1,52 @@
+* {
+  margin: 0px;
+  padding: 0px;
+  color: white;
+}
+
+body {
+  background-image: url(../../images/backgroundLp.png);
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: right;
+}
+
+.formBody {
+  background-color: rgba(19, 18, 18, 0.9450980392);
+  height: auto;
+  width: 450px !important;
+}
+
+.top-Logo {
+  width: 180px;
+}
+
+.paragraph {
+  margin: 8px 0px;
+}
+
+.btn-Send {
+  color: #ce1141;
+  border: 1px solid #ce1141;
+}
+.btn-Send:hover {
+  background-color: #ce1141;
+  color: #fff;
+}
+
+@media (max-width: 500px) {
+  .formBody {
+    background-color: rgba(19, 18, 18, 0.9450980392);
+    height: auto;
+    width: 350px !important;
+  }
+}
+@media (max-width: 360px) {
+  .formBody {
+    background-color: rgba(19, 18, 18, 0.9450980392);
+    height: auto;
+    width: 300px !important;
+  }
+}
+
+/*# sourceMappingURL=style.css.map */

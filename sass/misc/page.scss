@@ -1,0 +1,52 @@
+* {
+  margin: 0px;
+  padding: 0px;
+  color: white;
+}
+
+body {
+  background-image: url(../../images/backgroundLp.png);
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: right;
+}
+
+.formBody {
+  background-color: $background-color;
+  height: auto;
+  width: 450px !important;
+}
+
+.top-Logo {
+  width: 180px;
+}
+
+.paragraph {
+  margin: 8px 0px;
+}
+
+.btn-Send {
+  color: $button-color;
+  border: 1px solid $button-color;
+
+  &:hover {
+    background-color: $button-color;
+    color: #fff;
+  }
+}
+
+@media (max-width: 500px) {
+  .formBody {
+    background-color: $background-color;
+    height: auto;
+    width: 350px !important;
+  }
+}
+
+@media (max-width: 360px) {
+  .formBody {
+    background-color: $background-color;
+    height: auto;
+    width: 300px !important;
+  }
+}
